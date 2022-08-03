@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next_week">Next Week</string>
+    <string name="today">Today</string>
+    <string name="due_date_text">Due date</string>
+    <string name="radio_high">radio button</string>
+    <string name="radio_med">Medium</string>
+    <string name="radio_low">Low</string>
+    <string name="add_button">add button</string>
+    <string name="share">Share</string>
+    <string name="make_a_copy">Make a Copy</string>
+    <string name="email_a_copy">Email a Copy</string>
+    <string name="about_text">TODO app</string>
+</resources>
